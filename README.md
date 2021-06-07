@@ -1,4 +1,4 @@
-### Hi there 👋
+# Bodrul Amin
 
 I have been working as a mobile application developer since 2014. I am an expert in **Java**, **kotlin**, and recently playing around with **flutter**, Google's multi-platform framework.
 
