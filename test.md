@@ -1,7 +1,7 @@
-### Hi there, I'm Bodrul Amin [Bodrul Amin][website] 👋
+## Hi there, I'm [Bodrul Amin][website] 👋
 
 
-## I'm a Student, Developer, and Teacher!!
+### I'm a Student, Developer, and Teacher!!
 
  
 - 🌱 I’m currently learning everything 🤣
