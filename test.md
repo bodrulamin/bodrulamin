@@ -45,8 +45,10 @@
 
 
 [website]: https://github.com/bodrulamin
+[course]: https://github.com/bodrulamin
+[twitter]: https://twitter.com/bodrulamin
 [youtube]: https://youtube.com/bodrulamin
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://instagram.com/bodrulamin
 [linkedin]: https://www.linkedin.com/in/bodrulamin
 [webdevplaylist]: https://github.com/bodrulamin
 [jsplaylist]: https://github.com/bodrulamin
