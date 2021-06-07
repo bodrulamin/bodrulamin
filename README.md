@@ -1,4 +1,3 @@
-# Bodrul Amin
 <img src="https://raw.githubusercontent.com/bodrulamin/bodrulamin/main/text.gif"/>
 ### I'm a Student, Developer, and Teacher!!
 
