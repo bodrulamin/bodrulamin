@@ -1,8 +1,10 @@
 ### Hi there 👋
-## I am BodrulAmin
+
+I have been working as a mobile application developer since 2014. I am an expert in Java, kotlin, and recently playing around with flutter, Google's multi-platform framework.
+**bodrulamin/bodrulamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <!--
-**bodrulamin/bodrulamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
