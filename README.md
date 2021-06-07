@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 
- 🌱 I’m currently learning Oracle database and SQL standards
- - 📫 How to reach me: linkedIn (https://www.linkedin.com/in/bodrulamin/)
+- 🌱 I’m currently learning Oracle database and SQL standards
+- 📫 How to reach me: linkedIn (https://www.linkedin.com/in/bodrulamin/)
