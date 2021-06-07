@@ -46,4 +46,9 @@
 
 [website]: https://github.com/bodrulamin
 [youtube]: https://youtube.com/bodrulamin
+[instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/bodrulamin
+[webdevplaylist]: https://github.com/bodrulamin
+[jsplaylist]: https://github.com/bodrulamin
+[cssplaylist]: https://github.com/bodrulamin
+[reactplaylist]: https://github.com/bodrulamin
