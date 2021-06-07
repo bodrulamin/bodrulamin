@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-#### I have been working as a `mobile application developer` since 2014. I am an expert in **Java**, **kotlin**, and recently playing around with **flutter**, Google's multi-platform framework.
-**bodrulamin/bodrulamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have been working as a mobile application developer since 2014. I am an expert in **Java**, **kotlin**, and recently playing around with **flutter**, Google's multi-platform framework.
 
 
 <!--
 
 Here are some ideas to get you started:
+**bodrulamin/bodrulamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning Oracle database and SQL standards
+- 🌱 I’m currently learning **Oracle database and SQL standards**
 - 📫 How to reach me: linkedIn (https://www.linkedin.com/in/bodrulamin/)
