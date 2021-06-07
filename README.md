@@ -1,4 +1,5 @@
 # Bodrul Amin
+<img src="https://raw.githubusercontent.com/bodrulamin/bodrulamin/main/text.gif"/>
 ### I'm a Student, Developer, and Teacher!!
 
 I have been working as a *mobile application developer* since 2014. I am an expert in **Java**, **kotlin**, and recently playing around with **flutter**, Google's multi-platform framework.
