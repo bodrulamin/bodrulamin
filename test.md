@@ -46,7 +46,7 @@
 
 [website]: https://github.com/bodrulamin
 [course]: https://github.com/bodrulamin
-[twitter]: https://twitter.com/bodrulamin
+[twitter]:https://twitter.com/bodrulamin
 [youtube]: https://youtube.com/bodrulamin
 [instagram]: https://instagram.com/bodrulamin
 [linkedin]: https://www.linkedin.com/in/bodrulamin
