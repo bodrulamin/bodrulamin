@@ -28,8 +28,10 @@
 
 
    <table>
-    <tr> 
-    <td> <img src="https://img.shields.io/badge/PROGRAMMING%20LANGUAGES-orange?style=for-the-badge&color=00796B" /></td> 
+   <caption>
+   <img src="https://img.shields.io/badge/PROGRAMMING%20LANGUAGES-orange?style=for-the-badge&color=00796B" />
+   </caption>
+    <tr>      
     <td>Javascript</td> 
     <td>Java</td>   
     <td> Kotlin</td>   
@@ -40,8 +42,9 @@
 
 
 
-<img src="https://img.shields.io/badge/IDES-orange?style=for-the-badge&color=e53935" />
+
 <table>
+<caption><img src="https://img.shields.io/badge/IDES-orange?style=for-the-badge&color=e53935" /></caption>
     <tr> 
     <td>Android Studio</td> 
     <td>Eclipse</td>   
