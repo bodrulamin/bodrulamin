@@ -1,9 +1,3 @@
-<style>
-td, th {   
-   border:0px !important;
-   padding:2px !important;
-}
-</style>
 <!-- ##### Languages and tools -->
 ![landt](https://img.shields.io/badge/-LanguagesAndTools-blueviolet?style=plastic) ![JavaScript](https://img.shields.io/badge/-Javascript-fff?logoColor=red&style=plastic&logo=JavaScript) ![Java](https://img.shields.io/badge/-Java-fff?style=plastic&logo=Java&logoColor=red) ![kotlin](https://img.shields.io/badge/-Kotlin-fff?style=plastic&logo=kotlin) ![dart](https://img.shields.io/badge/-Dart-fff?style=plastic&logo=dart&logoColor=blue) ![php](https://img.shields.io/badge/-PHP-fff?style=plastic&logo=php)  ![SQL](https://img.shields.io/badge/SQL-fff?style=plastic&logo=MySQL) ![Bash](https://img.shields.io/badge/Bash-fff?style=plastic&logo=gnubash&logoColor=black)
 
@@ -16,21 +10,4 @@ td, th {
 ![landt](https://img.shields.io/badge/-Clouds-blueviolet?style=plastic&logo=) ![fs](https://img.shields.io/badge/Docker-orange?style=plastic&color=fff&logo=docker) ![fs](https://img.shields.io/badge/Firebase-orange?style=plastic&color=fff&logo=Firebase) 
 
 ![landt](https://img.shields.io/badge/-Others-blueviolet?style=plastic&logo=) ![fs](https://img.shields.io/badge/Git-orange?style=plastic&color=fff&logo=git) ![fs](https://img.shields.io/badge/npm-orange?style=plastic&color=fff&logo=npm) 
-<table>
- <tr>
- <td><img src="https://img.shields.io/badge/-LanguagesAndTools-blueviolet?style=plastic" /></td>
- <td><img src="https://img.shields.io/badge/-Javascript-fff?logoColor=red&style=plastic&logo=JavaScript" /></td>
- <td><img src="https://img.shields.io/badge/-Javascript-fff?logoColor=red&style=plastic&logo=JavaScript" /></td>
- <td><img src="https://img.shields.io/badge/-Javascript-fff?logoColor=red&style=plastic&logo=JavaScript" /></td> 
- </tr>
-  <tr>
- <td><img src="https://img.shields.io/badge/-Clouds-blueviolet?style=plastic&logo=" /></td>
- <td><img src="https://img.shields.io/badge/-Javascript-fff?logoColor=red&style=plastic&logo=JavaScript" /></td>
- <td><img src="https://img.shields.io/badge/-Javascript-fff?logoColor=red&style=plastic&logo=JavaScript" /></td>
- <td><img src="https://img.shields.io/badge/-Javascript-fff?logoColor=red&style=plastic&logo=JavaScript" /></td> 
- </tr>
-</table>
 
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
