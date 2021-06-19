@@ -2,7 +2,6 @@
 td, th {   
    border:0px !important;
    padding:2px !important;
-
 }
 </style>
 <!-- ##### Languages and tools -->
