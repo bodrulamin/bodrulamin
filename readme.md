@@ -1,5 +1,3 @@
-# BodrulAmin
-
 <p>
    <img src="https://img.shields.io/badge/languages%20and%20Tools-orange?style=for-the-badge&color=00796B" />
    Javascript Java Kotlin Dart Bash
@@ -24,7 +22,3 @@
  <img src="https://img.shields.io/badge/others-orange?style=for-the-badge&color=298912" />
  HTML CSS Git JSON NPM 
  </p>
- 
-> Thanks for Checking me out !
-
- 
