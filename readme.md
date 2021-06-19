@@ -41,14 +41,14 @@ If you have a **logo** and would like to **share it**, please send a **pull requ
 
 |                            | ✔️  Available      | ❌ Unavailable  |
 | -------------------------- | :----------------: | :-------------: |
-| Cassandra          	     |         ✔️         |                 |
-| MongoDB                    |         ✔️         |                 |
+| Firebase          	     |         ✔️         |                 |
+<!-- | MongoDB                    |         ✔️         |                 | -->
 | Mysql        				 |         ✔️         |                 |
 | Oracle 					 |         ✔️         |                 |
-| Postgresql   				 |         ✔️         |                 |
-| Redis  		  			 |         ✔️         |                 |
-| MariaDB       			 |                    |        ❌       |
-| CouchDB          			 |                    |        ❌       |
+<!-- | Postgresql   				 |         ✔️         |                 | -->
+<!-- | Redis  		  			 |         ✔️         |                 | -->
+<!-- | MariaDB       			 |                    |        ❌       | -->
+<!-- | CouchDB          			 |                    |        ❌       | -->
 | SQLite   					 |                    |        ❌       |
 
 
