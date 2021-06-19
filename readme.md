@@ -44,7 +44,7 @@ If you have a **logo** and would like to **share it**, please send a **pull requ
 | Firebase          	     |         ✔️         |                 |
 | Mysql        				 |         ✔️         |                 |
 | Oracle 					 |         ✔️         |                 |
-| SQLite   					 |                    |        ❌       |
+| SQLite   					 |          ✔️          |               |
 
 <!-- | Postgresql   				 |         ✔️         |                 | -->
 <!-- | Redis  		  			 |         ✔️         |                 | -->
