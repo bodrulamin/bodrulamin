@@ -3,10 +3,11 @@
 
 ## Languages
 
-* JavaScript
-* Java
-* Kotlin
-* Dart [Flutter]
+ JavaScript
+ Java
+ Kotlin
+Dart [Flutter]
+
 
 ## Tools
 
