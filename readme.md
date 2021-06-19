@@ -6,7 +6,7 @@
 
 ![fs](https://img.shields.io/badge/-Firestore-black?style=plastic&logo=firebase)   ![fs](https://img.shields.io/badge/-Oracle%20Database-black?style=plastic&logo=oracle)  ![fs](https://img.shields.io/badge/-SQLite-black?style=plastic&logo=sqlite)  ![fs](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb) 
 
-![fs](https://img.shields.io/badge/-Bootstrap-9cf?style=plastic&logo=bootstrap)  ![fs](https://img.shields.io/badge/-JQuery-9cf?style=plastic&logo=jquery) 
+![fs](https://img.shields.io/badge/-Bootstrap-orange?style=plastic&logo=bootstrap&color=283593)  ![fs](https://img.shields.io/badge/-JQuery-9cf?style=plastic&logo=jquery&color=283593) ![fs](https://img.shields.io/badge/Cloud-orange?style=plastic&color=283593) 
  Bootstrap JQuery Spring Angular Vue.js 
 
  <img src="https://img.shields.io/badge/Cloud-orange?style=for-the-badge&color=283593" /> Docker Firebase Github BitBucket Gitlab 
