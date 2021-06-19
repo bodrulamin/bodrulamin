@@ -6,9 +6,8 @@
 * JavaScript
 * Java
 * Kotlin
-* Dart
-
+* Dart [Flutter]
 
 ## Tools
-* Flutter
 
+* Flutter
