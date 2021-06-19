@@ -1,23 +1,6 @@
 # BodrulAmin | Software Developer, DevOps Engineer
 
 
-
-
-<p align="center">
-  <a href="#about">About</a> •
-  <a href="#databases">Databases</a> •
-  <a href="#programming-languages">Programming Languages</a> •
-  <a href="#ides">Ides</a> •
-  <a href="#text-editors">Text Editors</a> •
-  <a href="#frameworks">Frameworks</a> •
-  <a href="#cloud">Cloud</a> •
-  <a href="#others">Others</a> •
-  <a href="#license">License</a>
-</p>
-
----
-
-
    <table>
    <caption>
    <img src="https://img.shields.io/badge/PROGRAMMING%20LANGUAGES-orange?style=for-the-badge&color=00796B" />
