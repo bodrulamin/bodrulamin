@@ -62,25 +62,25 @@ If you have a **logo** and would like to **share it**, please send a **pull requ
 
 |                            | ✔️  Available      | ❌ Unavailable  |
 | -------------------------- | :----------------: | :-------------: |
+| Javascript   			     |         ✔️         |                 |
+| Java          			 |         ✔️         |                 |
+| Dart					 	 |         ✔️         |                 |
 | C         	     		 |         ✔️         |                 |
 | C++                        |         ✔️         |                 |
 | C#        				 |         ✔️         |                 |
-| Dart					 	 |         ✔️         |                 |
 | Bash   				     |         ✔️         |                 |
-| Go  		  			     |         ✔️         |                 |
-| Haskell       			 |         ✔️         |                 |
-| Java          			 |         ✔️         |                 |
-| Javascript   			     |         ✔️         |                 |
+<!-- | Go  		  			     |         ✔️         |                 |
+| Haskell       			 |         ✔️         |                 | -->
 | Kotlin   			         |         ✔️         |                 |
 | Php   			         |         ✔️         |                 |
-| Python   			         |         ✔️         |                 |
+<!-- | Python   			         |         ✔️         |                 |
 | Ruby   			         |         ✔️         |                 |
-| Rust   			         |         ✔️         |                 |
-| Typescript   			     |         ✔️         |                 |
+| Rust   			         |         ✔️         |                 | -->
+<!-- | Typescript   			     |         ✔️         |                 |
 | Fortran   			     |                    |        ❌       |
 | Pascal   			     	 |                    |        ❌       |
 | Cobol   			     	 |                    |        ❌       |
-| R   			     		 |                    |        ❌       |
+| R   			     		 |                    |        ❌       | -->
 
 
 ## Ides
