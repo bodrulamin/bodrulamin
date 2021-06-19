@@ -26,7 +26,20 @@
 
 ---
 
-  <a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/ides"><img src="https://img.shields.io/badge/IDES-orange?style=for-the-badge&color=e53935" /></a>&nbsp;
+ <img src="https://img.shields.io/badge/PROGRAMMING%20LANGUAGES-orange?style=for-the-badge&color=00796B" />
+   <table>
+    <tr> 
+    <td>Javascript</td> 
+    <td>Java</td>   
+    <td> Kotlin</td>   
+    <td> Dart</td>   
+    <td> Bash</td>   
+  </table>
+
+
+
+
+<img src="https://img.shields.io/badge/IDES-orange?style=for-the-badge&color=e53935" />
 
   <table>
     <tr> 
@@ -34,9 +47,7 @@
     <td>Eclipse</td>   
     <td> Intellij</td>   
     <td> PhpStorm</td>   
-    <td> Netbeans</td>   
-  
-
+    <td> Netbeans</td>
   </table>
  
   
