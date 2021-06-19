@@ -1,8 +1,6 @@
 # BodrulAmin | Software Developer, DevOps Engineer
 
-<p align="center"> <img src="https://raw.githubusercontent.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/master/Logos.png"/></p>
 
-> This repository contains programming languages, databases, ides, text editors, cloud, and framework logos.
 
 <p align="center">
   <a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/ides"><img src="https://img.shields.io/badge/IDES-orange?style=for-the-badge&color=e53935" /></a>&nbsp;
