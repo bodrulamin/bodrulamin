@@ -4,9 +4,9 @@
 
 ![landt](https://img.shields.io/badge/-IDES%20and%20Editors-blueviolet?style=plastic&logo=) ![as](https://img.shields.io/badge/Android%20Studio-fff?style=plastic&logo=androidstudio&logoColor=blue) ![as](https://img.shields.io/badge/-Eclipse-fff?style=plastic&logo=Eclipse&logoColor=red) ![pst](https://img.shields.io/badge/-phpStorm-fff?style=plastic&logo=phpstorm&logoColor=red) ![vscode](https://img.shields.io/badge/-VSCode-fff?style=plastic&logo=visualstudiocode&logoColor=blue) 
 
-![landt](https://img.shields.io/badge/-Databases-blueviolet?style=plastic&logo=) ![fs](https://img.shields.io/badge/-Firestore-fff?style=plastic&logo=firebase)   ![fs](https://img.shields.io/badge/-Oracle%20Database-fff?style=plastic&logo=oracle&logoColor=red)  ![fs](https://img.shields.io/badge/-SQLite-fff?style=plastic&logo=sqlite&logoColor=green)  ![fs](https://img.shields.io/badge/-MongoDB-fff?style=plastic&logo=mongodb) 
-
 ![landt](https://img.shields.io/badge/-Frameworks-blueviolet?style=plastic&logo=) ![fs](https://img.shields.io/badge/-Bootstrap-orange?style=plastic&logo=bootstrap&color=fff)  ![fs](https://img.shields.io/badge/-JQuery-fff?style=plastic&logo=jquery&logoColor=red) ![fs](https://img.shields.io/badge/spring-orange?style=plastic&color=fff&logo=spring)  ![fs](https://img.shields.io/badge/Angular-orange?style=plastic&color=fff&logo=angular&logoColor=red)  ![fs](https://img.shields.io/badge/Vue.js-orange?style=plastic&color=fff&logo=vue.js) 
+
+![landt](https://img.shields.io/badge/-Databases-blueviolet?style=plastic&logo=) ![fs](https://img.shields.io/badge/-Firestore-fff?style=plastic&logo=firebase)   ![fs](https://img.shields.io/badge/-Oracle%20Database-fff?style=plastic&logo=oracle&logoColor=red)  ![fs](https://img.shields.io/badge/-SQLite-fff?style=plastic&logo=sqlite&logoColor=green)  ![fs](https://img.shields.io/badge/-MongoDB-fff?style=plastic&logo=mongodb) 
 
 ![landt](https://img.shields.io/badge/-Clouds-blueviolet?style=plastic&logo=) ![fs](https://img.shields.io/badge/Docker-orange?style=plastic&color=fff&logo=docker) ![fs](https://img.shields.io/badge/Firebase-orange?style=plastic&color=fff&logo=Firebase) 
 
