@@ -6,7 +6,8 @@
 ## Languages
 
 
-<img src="/img.svg" width="50" height = "50">
+<img src="/js.svg" width="50" height = "50">
+<img src="/java.svg" width="50" height = "50">
  JavaScript
  Java
  Kotlin
