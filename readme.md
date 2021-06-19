@@ -1,62 +1,21 @@
 # BodrulAmin
 
-
-   <table>
-   <caption>
-   <img src="https://img.shields.io/badge/PROGRAMMING%20LANGUAGES-orange?style=for-the-badge&color=00796B" />
-   </caption>
-    <tr>      
-    <td>Javascript</td> 
-    <td>Java</td>   
-    <td>Kotlin</td>   
-    <td>Dart</td>   
-    <td>Bash</td>   
-  </table>
+   <img src="https://img.shields.io/badge/languages%20and%20Tools-orange?style=for-the-badge&color=00796B" />
+   Javascript Java Kotlin Dart Bash
  
-<table>
-<caption><img src="https://img.shields.io/badge/IDES%20&%20Editors-orange?style=for-the-badge&color=e53935" /></caption>
-    <tr> 
-    <td>Android Studio</td> 
-    <td>Eclipse</td>   
-    <td>Intellij</td>   
-    <td>PhpStorm</td>   
-    <td>Netbeans</td>
-    <td>VS Code</td>
-  </table>
+  <img src="https://img.shields.io/badge/IDES%20&%20Editors-orange?style=for-the-badge&color=e53935" />
+  Android Studio Eclipse Intellij PhpStorm Netbeans VS Code 
+
+ <img src="https://img.shields.io/badge/DATABASES-green?style=for-the-badge&color=2196F3" /> 
+ Firestore Oracle Database MySQL SQLite3 MongoDB 
+
+ <img src="https://img.shields.io/badge/FRAMEWORKS-orange?style=for-the-badge&color=673AB7" />
+ Bootstrap JQuery Spring Angular Vue.js 
+
+ <img src="https://img.shields.io/badge/Cloud-orange?style=for-the-badge&color=283593" /> Docker Firebase Github BitBucket Gitlab 
 
 
- 
-  <table>
-<caption>  <img src="https://img.shields.io/badge/DATABASES-green?style=for-the-badge&color=2196F3" /></caption>
-    <tr> 
-    <td>Firestore</td>   
-    <td>Oracle Database</td>   
-    <td>MySQL</td>   
-    <td>SQLite3</td>   
-    <td>MongoDB</td>
-  </table>
-
-
-  <table>
-<caption>   <img src="https://img.shields.io/badge/FRAMEWORKS-orange?style=for-the-badge&color=673AB7" /></caption>
-    <tr> 
-    <td>Bootstrap</td>   
-    <td>JQuery</td>   
-    <td>Spring</td>
-    <td>Angular</td>
-    <td>Vue.js</td>
-  </table> 
-   <table>
-<caption>   <img src="https://img.shields.io/badge/Cloud-orange?style=for-the-badge&color=283593" /></caption>
-    <tr> 
-    <td>Docker</td>   
-    <td>Firebase</td>   
-    <td>Github</td>
-    <td>BitBucket</td>
-    <td>Gitlab</td>
-  </table>
-   <table>
-<caption>   <img src="https://img.shields.io/badge/others-orange?style=for-the-badge&color=298912" /></caption>
+ <img src="https://img.shields.io/badge/others-orange?style=for-the-badge&color=298912" /></caption>
     <tr> 
     <td>HTML</td>   
     <td>CSS</td>   
