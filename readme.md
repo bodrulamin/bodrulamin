@@ -117,20 +117,7 @@ If you have a **logo** and would like to **share it**, please send a **pull requ
 | VS Code					 |         ✔️         |                 |
 
 
-
-## Frameworks
-
-> Here are listed all the frameworks logos.
-
-
-|                            | ✔️  Available      | ❌ Unavailable  |
-| -------------------------- | :----------------: | :-------------: |
-| Atom         	 			 |         ✔️         |                 |
-| Notepad++                  |         ✔️         |                 |
-| Sublime        		     |         ✔️         |                 |
-| VS Code					 |         ✔️         |                 |
-
-
+ 
 
 ## Cloud
 
@@ -139,17 +126,17 @@ If you have a **logo** and would like to **share it**, please send a **pull requ
 
 |                            | ✔️  Available      | ❌ Unavailable  |
 | -------------------------- | :----------------: | :-------------: |
-| Amazon         	 		 |         ✔️         |                 |
-| Ansible                  	 |         ✔️         |                 |
-| Azure        		     	 |         ✔️         |                 |
+
 | Bitbucket					 |         ✔️         |                 |
 | Docker					 |         ✔️         |                 |
 | Firebase					 |         ✔️         |                 |
-| GCloud					 |         ✔️         |                 |
 | Github					 |         ✔️         |                 |
 | Gitlab					 |         ✔️         |                 |
-| Heroku					 |         ✔️         |                 |
-
+<!-- | Heroku					 |         ✔️         |                 | -->
+<!-- | Amazon         	 		 |         ✔️         |                 |
+| Ansible                  	 |         ✔️         |                 |
+| Azure        		     	 |         ✔️         |                 | -->
+<!-- | GCloud					 |         ✔️         |                 | -->
 
 ## Others
 
