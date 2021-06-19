@@ -42,14 +42,16 @@ If you have a **logo** and would like to **share it**, please send a **pull requ
 |                            | ✔️  Available      | ❌ Unavailable  |
 | -------------------------- | :----------------: | :-------------: |
 | Firebase          	     |         ✔️         |                 |
-<!-- | MongoDB                    |         ✔️         |                 | -->
 | Mysql        				 |         ✔️         |                 |
 | Oracle 					 |         ✔️         |                 |
+| SQLite   					 |                    |        ❌       |
+
 <!-- | Postgresql   				 |         ✔️         |                 | -->
 <!-- | Redis  		  			 |         ✔️         |                 | -->
 <!-- | MariaDB       			 |                    |        ❌       | -->
 <!-- | CouchDB          			 |                    |        ❌       | -->
-| SQLite   					 |                    |        ❌       |
+<!-- | MongoDB                    |         ✔️         |                 | -->
+
 
 
 
