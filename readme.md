@@ -1,7 +1,13 @@
-<p>
-   <img src="https://img.shields.io/badge/languages%20and%20Tools-orange?style=for-the-badge&color=00796B" />
-   Javascript Java Kotlin Dart Bash
- </p>
+
+
+
+ 
+<img src="https://img.shields.io/badge/languages%20and%20Tools-orange?style=for-the-badge&color=00796B" />
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-blueviolet?style=plastic&logo=JavaScript) ![Java](https://img.shields.io/badge/-Java-yellow?style=plastic&logo=Java) ![kotlin](https://img.shields.io/badge/-Kotlin-critical?style=plastic&logo=kotlin) ![dart](https://img.shields.io/badge/-Dart-informational?style=plastic&logo=dart)  ![SQL](https://img.shields.io/badge/-SQL-333?style=plastic&logo=MySQL) ![Bash](https://img.shields.io/badge/-Bash-blue?style=plastic&logo=linux)
+   
+    Java Kotlin Dart Bash
+ 
 
  <p>
   <img src="https://img.shields.io/badge/IDES%20&%20Editors-orange?style=for-the-badge&color=e53935" />
