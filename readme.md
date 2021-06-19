@@ -38,11 +38,7 @@
     <td> Dart</td>   
     <td> Bash</td>   
   </table>
-
-
----
-
-
+ 
 <table>
 <caption><img src="https://img.shields.io/badge/IDES-orange?style=for-the-badge&color=e53935" /></caption>
     <tr> 
@@ -52,14 +48,30 @@
     <td> PhpStorm</td>   
     <td> Netbeans</td>
   </table>
+
+
  
-  
+  <table>
+<caption>  <img src="https://img.shields.io/badge/DATABASES-green?style=for-the-badge&color=2196F3" /></caption>
+    <tr> 
+    <td>Firebase</td>   
+    <td>Oracle Database</td>   
+    <td>MySQL</td>   
+    <td>SQLite3</td>   
+    <td>MongoDB</td>
+  </table>
 
-## About
 
-This repository **contains** logos of **frameworks, programming languages, text editors, cloud, ides and among others**, and can be used to make your **README profile**.
+  <table>
+<caption>   <img src="https://img.shields.io/badge/FRAMEWORKS-orange?style=for-the-badge&color=673AB7" /></caption>
+    <tr> 
+    <td>Bootstrap</td>   
+    <td>JQuery</td>   
+    <td>Spring</td>
+    <td>Angular</td>
+    <td>Vue.js</td>
+  </table>
 
-If you have a **logo** and would like to **share it**, please send a **pull request**.
 
 
 ## Databases
