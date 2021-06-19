@@ -147,7 +147,6 @@ If you have a **logo** and would like to **share it**, please send a **pull requ
 | -------------------------- | :----------------: | :-------------: |
 | Css         	 			 |         ✔️         |                 |
 | Git                  		 |         ✔️         |                 |
-| Gitkraken        		     |         ✔️         |                 |
 | Html					 	 |         ✔️         |                 |
 | Json					 	 |         ✔️         |                 |
 | Npm					 	 |         ✔️         |                 |
