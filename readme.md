@@ -4,7 +4,6 @@
 
 <p align="center">
   <a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/ides"><img src="https://img.shields.io/badge/IDES-orange?style=for-the-badge&color=e53935" /></a>&nbsp;
-  
   <a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/databases"><img src="https://img.shields.io/badge/DATABASES-green?style=for-the-badge&color=2196F3" /></a>&nbsp;
   <a target="_blank"href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/programming%20languages"><img src="https://img.shields.io/badge/PROGRAMMING%20LANGUAGES-orange?style=for-the-badge&color=00796B" /></a>&nbsp;
   <a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/text%20editors"><img src="https://img.shields.io/badge/TEXT%20EDITORS-orange?style=for-the-badge&color=4CAF50" /></a>&nbsp;
@@ -27,6 +26,20 @@
 
 ---
 
+  <a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/ides"><img src="https://img.shields.io/badge/IDES-orange?style=for-the-badge&color=e53935" /></a>&nbsp;
+
+  <table>
+    <tr> 
+    <td>Android Studio</td> 
+    <td>Eclipse</td>   
+    <td> Intellij</td>   
+    <td> PhpStorm</td>   
+    <td> Netbeans</td>   
+  
+
+  </table>
+ 
+  
 
 ## About
 
@@ -34,7 +47,6 @@ This repository **contains** logos of **frameworks, programming languages, text 
 
 If you have a **logo** and would like to **share it**, please send a **pull request**.
 
-  <a target="_blank"href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/programming%20languages"><img src="https://img.shields.io/badge/PROGRAMMING%20LANGUAGES-orange?style=for-the-badge&color=00796B" /></a>&nbsp;
 
 ## Databases
 
