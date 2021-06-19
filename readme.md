@@ -1,6 +1,6 @@
 
 <!-- ##### Languages and tools -->
-![JavaScript](https://img.shields.io/badge/-Javascript-blueviolet?style=plastic&logo=JavaScript) ![Java](https://img.shields.io/badge/-Java-blueviolet?style=plastic&logo=Java) ![kotlin](https://img.shields.io/badge/-Kotlin-blueviolet?style=plastic&logo=kotlin) ![dart](https://img.shields.io/badge/-Dart-blueviolet?style=plastic&logo=dart)  ![SQL](https://img.shields.io/badge/SQL-blueviolet?style=plastic&logo=MySQL) ![Bash](https://img.shields.io/badge/Bash-blueviolet?style=plastic&logo=gnubash)
+![JavaScript](https://img.shields.io/badge/-Javascript-fff?style=plastic&logo=JavaScript) ![Java](https://img.shields.io/badge/-Java-fff?style=plastic&logo=Java) ![kotlin](https://img.shields.io/badge/-Kotlin-fff?style=plastic&logo=kotlin) ![dart](https://img.shields.io/badge/-Dart-fff?style=plastic&logo=dart)![php](https://img.shields.io/badge/-PHP-fff?style=plastic&logo=php)  ![SQL](https://img.shields.io/badge/SQL-fff?style=plastic&logo=MySQL) ![Bash](https://img.shields.io/badge/Bash-fff?style=plastic&logo=gnubash)
 
 ![as](https://img.shields.io/badge/Android%20Studio-blue?style=plastic&logo=androidstudio) ![as](https://img.shields.io/badge/-Eclipse-blue?style=plastic&logo=Eclipse) ![pst](https://img.shields.io/badge/-phpStorm-blue?style=plastic&logo=phpstorm) ![vscode](https://img.shields.io/badge/-VSCode-blue?style=plastic&logo=visualstudiocode) 
 
