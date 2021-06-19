@@ -90,17 +90,18 @@ If you have a **logo** and would like to **share it**, please send a **pull requ
 |                            | ✔️  Available      | ❌ Unavailable  |
 | -------------------------- | :----------------: | :-------------: |
 | Android Studio         	 |         ✔️         |                 |
-| CLion                      |         ✔️         |                 |
-| Datagrip        		     |         ✔️         |                 |
+<!-- | CLion                      |         ✔️         |                 | -->
+<!-- | Datagrip        		     |         ✔️         |                 | -->
 | Eclipse					 |         ✔️         |                 |
 | Goland   				     |         ✔️         |                 |
 | Intellij  		  	     |         ✔️         |                 |
 | PhpStorm       			 |         ✔️         |                 |
-| Pycharm          			 |         ✔️         |                 |
-| Rider   			         |         ✔️         |                 |
-| RubyMine   			     |         ✔️         |                 |
 | Netbeans   			     |                    |        ❌       |
-| Microsoft Visual Studio    |                    |        ❌       |
+
+<!-- | Pycharm          			 |         ✔️         |                 |
+| Rider   			         |         ✔️         |                 | -->
+<!-- | RubyMine   			     |         ✔️         |                 | -->
+<!-- | Microsoft Visual Studio    |                    |        ❌       | -->
 
 
 ## Text Editors
