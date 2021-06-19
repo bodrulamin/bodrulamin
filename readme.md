@@ -1,4 +1,4 @@
-# BodrulAmin | Software Developer, DevOps Engineer
+# BodrulAmin
 
 
    <table>
