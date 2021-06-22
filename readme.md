@@ -7,7 +7,7 @@
 
 ![landt](https://img.shields.io/badge/-Databases-blueviolet?style=plastic&logo=) ![fs](https://img.shields.io/badge/-Firestore-fff?style=plastic&logo=firebase)   ![fs](https://img.shields.io/badge/-Oracle%20Database-fff?style=plastic&logo=oracle&logoColor=red)  ![fs](https://img.shields.io/badge/-SQLite-fff?style=plastic&logo=sqlite&logoColor=green)  ![fs](https://img.shields.io/badge/-MongoDB-fff?style=plastic&logo=mongodb) 
 
-![landt](https://img.shields.io/badge/-Clouds-blueviolet?style=plastic&logo=) ![fs](https://img.shields.io/badge/Docker-orange?style=plastic&color=fff&logo=docker) ![fs](https://img.shields.io/badge/Firebase-orange?style=plastic&color=fff&logo=Firebase) 
+![landt](https://img.shields.io/badge/-Clouds-blueviolet?style=plastic) ![fs](https://img.shields.io/badge/Docker-orange?style=plastic&color=fff&logo=docker) ![fs](https://img.shields.io/badge/Jenkins-orange?style=plastic&color=fff&logo=jenkins) ![fs](https://img.shields.io/badge/Firebase-orange?style=plastic&color=fff&logo=Firebase) 
 
 ![landt](https://img.shields.io/badge/-Others-blueviolet?style=plastic&logo=) ![fs](https://img.shields.io/badge/Git-orange?style=plastic&color=fff&logo=git) ![fs](https://img.shields.io/badge/npm-orange?style=plastic&color=fff&logo=npm) 
 
