@@ -60,7 +60,7 @@
 
  
  
-![Metrics](https://metrics.lecoq.io/bodrulamin?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto) |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bodrulamin&langs_count=8)
+![Metrics](https://metrics.lecoq.io/bodrulamin?template=classic&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FDhaka) |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bodrulamin&langs_count=5)
 
  
 
