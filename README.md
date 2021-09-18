@@ -52,7 +52,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bodrulamin"/>
 </a>
 <br>
- 
+ <br>
  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bodrulamin&langs_count=8)
 
