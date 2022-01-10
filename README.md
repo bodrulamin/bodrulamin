@@ -15,7 +15,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Citizen Issue Solver
+- 🔭 I’m currently working on `Citizen Issue Solver`
 
 - 🌱 I’m currently learning Swing, JavaFX, Python, Swift, Spring, Spring boot, Data JPA, Spring Security, Docker, Kubernetes, Jenkins, AWS 
 
