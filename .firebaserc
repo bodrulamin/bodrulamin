@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "bodrul-amin": {
+      "hosting": {
+        "bodrulamin": [
+          "bodrulamin"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "bodrul-amin"
+  }
+}
