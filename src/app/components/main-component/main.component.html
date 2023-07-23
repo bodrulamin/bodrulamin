@@ -26,7 +26,7 @@
       <div class="overlay"></div>
       <div class="container">
         <div class="row d-md-flex no-gutters slider-text align-items-end justify-content-end" data-scrollax-parent="true">
-          <div class="one-third js-fullheight order-md-last img" style="background-image:url(assets/images/bg_1.png);">
+          <div class="one-third js-fullheight order-md-last img" style="background-image:url(assets/images/bg_1.png); opacity: .5">
             <div class="overlay"></div>
           </div>
           <div class="one-forth d-flex  align-items-center ftco-animate" data-scrollax=" properties: { translateY: '20%' }">
@@ -45,7 +45,7 @@
       <div class="overlay"></div>
       <div class="container">
         <div class="row d-flex no-gutters slider-text align-items-end justify-content-end" data-scrollax-parent="true">
-          <div class="one-fourth js-fullheight order-md-last img" style="background-image:url(assets/images/bg_2.png);">
+          <div class="one-third js-fullheight order-md-last img" style="background-image:url(assets/images/bg_2.png); opacity: .5">
             <div class="overlay"></div>
           </div>
           <div class="one-forth d-flex align-items-center ftco-animate" data-scrollax=" properties: { translateY: '20%' }">
@@ -67,7 +67,7 @@
       <div class="col-md-6 col-lg-5 d-flex">
         <div class="img-about img d-flex align-items-stretch">
           <div class="overlay"></div>
-          <div class="img d-flex align-self-stretch align-items-center" style="background-image:url(assets/images/bg_1.png);">
+          <div class="img d-flex align-self-stretch align-items-center" style="background-image:url(assets/images/about.png); opacity: .6">
           </div>
         </div>
       </div>
@@ -118,7 +118,7 @@
           <span class="date">{{experience?.date}}</span>
           <h2>{{experience?.companyName}}</h2>
           <span class="position">{{experience?.designation}}</span>
-          <p class="mt-4">{{experience.description}}</p>
+          <p [innerHTML]="experience.description" class="mt-4"></p>
         </div>
 
       </div>
@@ -550,7 +550,7 @@
       </div>
 
       <div class="col-md-6 d-flex">
-        <div class="img" style="background-image: url(assets/images/about.jpg);"></div>
+        <div class="img" style="background-image: url(assets/images/contactme.png);"></div>
       </div>
     </div>
   </div>

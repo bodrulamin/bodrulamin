@@ -9,6 +9,10 @@ class Experience {
     designation : string = '';
     description : string = '';
 }
+class Service {
+    name : string = 'Software Development';
+    flatIconClass : string = '';
+}
 
 export class  BasicInfo {
     name = 'Bodrul Amin';
@@ -27,7 +31,9 @@ export class  BasicInfo {
     hireMeLink = '';
     myWorksLink = '';
     aboutMe = '';
+    serviceTagLine = '';
     experiences: Experience[] | undefined;
+  services: Service[] | undefined;
 
 }
 
@@ -41,8 +47,7 @@ export class  BasicInfo {
 export class MainComponent {
 
     loaded = false;
-
-    basicInfo: BasicInfo = new BasicInfo();
+    basicInfo : any;
      experiences: Experience[] | undefined;
     constructor(private store: AngularFirestore) {}
 
