@@ -47,7 +47,7 @@ export class  BasicInfo {
 export class MainComponent {
 
     loaded = false;
-    basicInfo : any;
+    basicInfo : BasicInfo | undefined;
      experiences: Experience[] | undefined;
     constructor(private store: AngularFirestore) {}
 
