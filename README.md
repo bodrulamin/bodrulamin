@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bodrulamin&label=Profile%20views&color=0e75b6&style=flat" alt="bodrulamin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bodrulamin&theme=default" alt="bodrulamin" /></a> </p>
 
 - 🔭 I’m currently working on [Ababil-NG](https://mislbd.com)
 - 👯 I’m looking to collaborate on [Banglish-Notify](https://github.com/bodrulamin/Banglish-Notify)
@@ -12,6 +11,8 @@
 - 📫 How to reach me **bodrulaminiu@gmail.com**
 - 👨‍💻 All of my projects are available at **bodrulamin.web.app**
 - 📄 Know about my experiences **bodrulamin.web.app**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bodrulamin&theme=default" alt="bodrulamin" /></a> </p>
 
 <div> <a href="https://www.linkedin.com/in/bodrulamin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/bodrulamin" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
