@@ -14,13 +14,13 @@
 
 
 
-- 🔭 I’m currently working on `Citizen Issue Solver`
+- 🔭 I’m currently working on `Ababil-Ng Core Banking Solution`
 
-- 🌱 I’m currently learning Swing, JavaFX, Python, Swift, Spring, Spring boot, Data JPA, Spring Security, Docker, Kubernetes, Jenkins, AWS
+- 🌱 I’m currently learning Spring Boot, Spring Security, Docker, Kubernetes, Jenkins, AWS, GCP
 
 - 👯 I’m looking to collaborate on
 
-- 💬 Talk to me about Java, Swing, Spring, Spring boot, Data JPA, WebFlux, JavaScript, Python
+- 💬 Talk to me about Java, Spring Boot, Angular, WebFlux, JavaScript, Python
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/bodrulamin?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
