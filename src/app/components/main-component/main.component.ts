@@ -27,6 +27,7 @@ export class  BasicInfo {
     photoUrl2 = '';
     cvUrl = '';
     githubUrl = '';
+    website = '';
     summary = '';
     hireMeLink = '';
     myWorksLink = '';

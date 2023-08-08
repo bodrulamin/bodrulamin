@@ -220,7 +220,7 @@
     <div class="row">
       <div class="col-md-6 animate-box">
         <div class="progress-wrap ftco-animate">
-          <h3>Photoshop</h3>
+          <h3>Java</h3>
           <div class="progress">
             <div class="progress-bar color-1" role="progressbar" aria-valuenow="90"
                  aria-valuemin="0" aria-valuemax="100" style="width:90%">
@@ -231,7 +231,7 @@
       </div>
       <div class="col-md-6 animate-box">
         <div class="progress-wrap ftco-animate">
-          <h3>jQuery</h3>
+          <h3>Spring Boot</h3>
           <div class="progress">
             <div class="progress-bar color-2" role="progressbar" aria-valuenow="85"
                  aria-valuemin="0" aria-valuemax="100" style="width:85%">
@@ -242,7 +242,7 @@
       </div>
       <div class="col-md-6 animate-box">
         <div class="progress-wrap ftco-animate">
-          <h3>HTML5</h3>
+          <h3>Angular</h3>
           <div class="progress">
             <div class="progress-bar color-3" role="progressbar" aria-valuenow="95"
                  aria-valuemin="0" aria-valuemax="100" style="width:95%">
@@ -253,7 +253,7 @@
       </div>
       <div class="col-md-6 animate-box">
         <div class="progress-wrap ftco-animate">
-          <h3>CSS3</h3>
+          <h3>TypeScript</h3>
           <div class="progress">
             <div class="progress-bar color-4" role="progressbar" aria-valuenow="90"
                  aria-valuemin="0" aria-valuemax="100" style="width:90%">
@@ -264,7 +264,7 @@
       </div>
       <div class="col-md-6 animate-box">
         <div class="progress-wrap ftco-animate">
-          <h3>WordPress</h3>
+          <h3>Oracle</h3>
           <div class="progress">
             <div class="progress-bar color-5" role="progressbar" aria-valuenow="70"
                  aria-valuemin="0" aria-valuemax="100" style="width:70%">
@@ -275,7 +275,7 @@
       </div>
       <div class="col-md-6 animate-box">
         <div class="progress-wrap ftco-animate">
-          <h3>SEO</h3>
+          <h3>MySQL</h3>
           <div class="progress">
             <div class="progress-bar color-6" role="progressbar" aria-valuenow="80"
                  aria-valuemin="0" aria-valuemax="100" style="width:80%">
@@ -495,7 +495,7 @@
             <span class="icon-map-signs"></span>
           </div>
           <h3 class="mb-4">Address</h3>
-          <p>198 West 21th Street, Suite 721 New York NY 10016</p>
+          <p>{{basicInfo?.address}}</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-3 d-flex ftco-animate">
@@ -504,7 +504,7 @@
             <span class="icon-phone2"></span>
           </div>
           <h3 class="mb-4">Contact Number</h3>
-          <p><a href="tel://1234567920">+ 1235 2355 98</a></p>
+          <p><a href="tel://{{basicInfo?.phone}}">{{basicInfo?.phone}}</a></p>
         </div>
       </div>
       <div class="col-md-6 col-lg-3 d-flex ftco-animate">
@@ -513,7 +513,7 @@
             <span class="icon-paper-plane"></span>
           </div>
           <h3 class="mb-4">Email Address</h3>
-          <p><a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+          <p><a href="mailto:{{basicInfo?.email}}">{{basicInfo?.email}}</a></p>
         </div>
       </div>
       <div class="col-md-6 col-lg-3 d-flex ftco-animate">
@@ -522,7 +522,7 @@
             <span class="icon-globe"></span>
           </div>
           <h3 class="mb-4">Website</h3>
-          <p><a href="#">yoursite.com</a></p>
+          <p><a href="{{basicInfo?.website}}">{{basicInfo?.website}}</a></p>
         </div>
       </div>
     </div>
@@ -587,8 +587,8 @@
         <div class="ftco-footer-widget mb-4">
           <h2 class="ftco-heading-2">Services</h2>
           <ul class="list-unstyled">
-            <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Web Design</a></li>
-            <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Web Development</a></li>
+            <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Web Application Development</a></li>
+            <li><a href="#"><span class="icon-long-arrow-right mr-2"></span></a></li>
             <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Business Strategy</a></li>
             <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Data Analysis</a></li>
             <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Graphic Design</a></li>
