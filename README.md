@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Ababil-NG](https://mislbd.com)
 - 👯 I’m looking to collaborate on [Banglish-Notify](https://github.com/bodrulamin/Banglish-Notify)
-- 🌱 I’m currently learning **Spring Security, Angular, AWS, GCP, **
+- 🌱 I’m currently learning **Spring Security, Angular, AWS, GCP **
 - 💬 Ask me about **Spring Boot, Angular, Flutter**
 - 📫 How to reach me **bodrulaminiu@gmail.com**
 - 👨‍💻 All of my projects are available at **bodrulamin.web.app**
@@ -56,8 +56,7 @@
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=bodrulamin&show_icons=true&locale=en&theme=default" alt="bodrulamin" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
+
 <a href="https://github.com/bodrulamin">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bodrulamin&theme=dracula" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bodrulamin&theme=2077" height="180em" />
@@ -65,25 +64,3 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bodrulamin&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bodrulamin&theme=2077" height="180em" />
 </div>
-Support
-Are you using the tool and happy with it to create your GitHub Repository?
-
-Please Don't Forget to Star This Repository
-FlowBite Logo
-Github Readme Generator
-RESOURCES
-Github Readme Generator
-Source Code
-FOLLOW US
-Github
-Linkedin
-LEGAL
-Privacy Policy
-Terms & Conditions
-© 2023 . All Rights Reserved.
-Made ❤️ by Sashen Jayathilaka
-Facebook page
-Instagram page
-Twitter page
-GitHub account
-Dribbble account
